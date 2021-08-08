@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/GrievanceForm/static/css/main.a894d915.chunk.css",
+    "main.js": "/GrievanceForm/static/js/main.260e8534.chunk.js",
+    "main.js.map": "/GrievanceForm/static/js/main.260e8534.chunk.js.map",
+    "runtime-main.js": "/GrievanceForm/static/js/runtime-main.4531ff3e.js",
+    "runtime-main.js.map": "/GrievanceForm/static/js/runtime-main.4531ff3e.js.map",
+    "static/js/2.de3f120e.chunk.js": "/GrievanceForm/static/js/2.de3f120e.chunk.js",
+    "static/js/2.de3f120e.chunk.js.map": "/GrievanceForm/static/js/2.de3f120e.chunk.js.map",
+    "index.html": "/GrievanceForm/index.html",
+    "static/css/main.a894d915.chunk.css.map": "/GrievanceForm/static/css/main.a894d915.chunk.css.map",
+    "static/js/2.de3f120e.chunk.js.LICENSE.txt": "/GrievanceForm/static/js/2.de3f120e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4531ff3e.js",
+    "static/js/2.de3f120e.chunk.js",
+    "static/css/main.a894d915.chunk.css",
+    "static/js/main.260e8534.chunk.js"
+  ]
+}
